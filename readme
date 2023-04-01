@@ -1,0 +1,2 @@
+To run this code, you have to connect your ESP32S2 on your device
+and run the "idf.py build flash monitor" command in the ESP-IDF.
